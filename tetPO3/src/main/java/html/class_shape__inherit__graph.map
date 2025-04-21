@@ -1,0 +1,7 @@
+<map id="Shape" name="Shape">
+<area shape="rect" id="Node000001" title="Абстрактный класс Shape представляет геометрическую фигуру" alt="" coords="49,5,108,32"/>
+<area shape="rect" id="Node000002" href="$class_circle.html" title="Класс Circle представляет круг" alt="" coords="5,80,61,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,47,43,81,39,78,60,44"/>
+<area shape="rect" id="Node000003" href="$class_rectangle.html" title="Класс Rectangle представляет прямоугольник" alt="" coords="85,80,165,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,44,119,78,115,81,92,47"/>
+</map>
